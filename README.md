@@ -1,1 +1,2 @@
-# Process-longer-video-to-shorter-
+Given a longer video as input, our goal is to process it and generate a 30s short video (very important - output aspect ratio - 9:16) that is captivating and shareable on social media. 
+We can predetermine interesting clips and give them as input to the code. For example - you might determine a video to have interesting clips between 5-9, 15-20, 35-40, etc. and provide that as input to the code along with the video.
